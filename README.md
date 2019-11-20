@@ -2,11 +2,6 @@
 ![fake-ai](./assets/img/preview.png)
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/derogab/fake-ai.svg)](https://github.com/derogab/fake-ai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/derogab/fake-ai.svg)](https://github.com/derogab/fake-ai/network)
-[![GitHub issues](https://img.shields.io/github/issues/derogab/fake-ai.svg)](https://github.com/derogab/fake-ai/issues)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/derogab)
-
 `fake-ai` is a **simulated artificial intelligence** using Twitter replies.
 
 ## Story
